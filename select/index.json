@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Underneath the Tree (Official Lyric Video)",
+  "base_artist": "Kelly Clarkson",
+  "createdAt": "2025-12-24T17:18:23.814736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Underneath the Tree",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/01_Underneath_the_Tree_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Underneath The Tree",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/02_Underneath_The_Tree_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Underneath the Tree",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/03_Underneath_the_Tree_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Underneath the Tree",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/04_Underneath_the_Tree_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Underneath the Tree - Morlando Remix",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/05_Underneath_the_Tree_-_Morlando_Remix_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Underneath the Tree",
+      "artist": "First to Eleven",
+      "has_synced": false,
+      "path": "select/06_Underneath_the_Tree_First_to_Eleven.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Underneath the Tree (Cover)",
+      "artist": "First to Eleven",
+      "has_synced": false,
+      "path": "select/07_Underneath_the_Tree_(Cover)_First_to_Eleven.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Underneath the Tree - Cutmore Christmas Sleigh Ride Extended Mix",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/08_Underneath_the_Tree_-_Cutmore_Christmas_Sleigh_Ride_Extended_Mix_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Underneath the Tree - Cutmore Christmas Sleigh Ride Radio Mix",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/09_Underneath_the_Tree_-_Cutmore_Christmas_Sleigh_Ride_Radio_Mix_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Underneath the Tree - Morlando Radio Mix",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/10_Underneath_the_Tree_-_Morlando_Radio_Mix_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Underneath the Tree",
+      "artist": "Kelly Clarkson",
+      "has_synced": false,
+      "path": "select/pl_01_Underneath_the_Tree_Kelly_Clarkson.txt"
+    }
+  ]
+}
